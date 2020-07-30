@@ -1,0 +1,1 @@
+@java -cp "E:\java´úÂëÁ·Ï°\2020730\out\production\2020730;E:\java´úÂëÁ·Ï°\2020730\lib\mysql-connector-java-5.1.47.jar " com.yang.MYSQLClient %*
